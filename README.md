@@ -9,10 +9,10 @@
 2. 做笔记
 3. 练习 
 
-我会的编程语言有`HTML, CSS, JavaScript, python`,和一点点点`Java`,下面我用`HTML`写一段READ.md吧
+我会的编程语言有`HTML, CSS, JavaScript, python`，和一点点点`Java`，下面我用`HTML`写一段READ.md吧
 ```HTML
   <h1>自我介绍</h1>
-  <hr style="background-color:#ddd;height:1px;border:none">
+  <hr style="background-color:#ddd;height:1px;border:none"/>
   <p>我叫枣子，我的爱好是：</p>
   <ul>
     <li>爬山</li>
@@ -25,8 +25,7 @@
     <li>做笔记</li>
     <li>练习</li>
   </ol>
-  <p>我会的编程语言有HTML, CSS, JavaScript, python,和一点点点Java,下面我用python写一段吧
-    <br/>
+  <p>我会的编程语言有HTML, CSS, JavaScript, python,和一点点点Java,下面我用python写一段吧<br/>
     <code>
       print('你好猪猪')
     </code>

@@ -5,9 +5,9 @@
 * 小猪猪
   
 我的学习方法是：
-1.看视频
-2.做笔记
-3.练习 
+1. 看视频
+2. 做笔记
+3. 练习 
 
 我会的编程语言有`HTML, CSS, JavaScript, python`,和一点点点`Java`,下面我用`HTML`写一段READ.md吧
 ```HTML

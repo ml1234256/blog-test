@@ -1,5 +1,3 @@
-## HTML入门（常用标签1）
-
 ### [HTML简介]
 HTML（Hyper Text Markup Language，超文本标记语言）是由李爵士发明的，他还写了第一个浏览器与服务器，发明了WWW, URL , HTTP 
 ```HTML
@@ -16,7 +14,6 @@ HTML（Hyper Text Markup Language，超文本标记语言）是由李爵士发�
 </body>
 </html>
 ```
-
 ### [HTML章节标签]
 * 标题 h1~h6： 块级元素
 * 段落 p： 块级元素
@@ -55,7 +52,6 @@ HTML（Hyper Text Markup Language，超文本标记语言）是由李爵士发�
     </ul>
     ```
 * dl + dt + dd ( description list, term, data)
-* pre (preview): pre标签内的内容保留空格、回车、tag等
 * hr: 分割线
     ```HTML 
     <hr style="background-color:#ddd;height:1px;border:none"/> <!--需要设置height与border才有颜色-->
@@ -90,9 +86,16 @@ HTML（Hyper Text Markup Language，超文本标记语言）是由李爵士发�
     ```
 * em (emphasis)： 斜体，行级元素
 * strong： 加粗，行级元素
+* pre (preview): pre标签内的内容保留空格、回车、tag等
 * code：code标签内的是等宽的，用来标记代码
-    ```PYTHON
-    print("我是代码")
+    ```HTML
+    <!--使用pre标签来保留code标签内的格式-->
+    <pre>
+      <code>
+        print('你好猪猪')
+        ptint('猪猪你好')
+      </code>
+    </pre>
     ```
 * q (quote): 引用， 行级元素
 * blockquote： 换行引用，块级元素

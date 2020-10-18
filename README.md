@@ -9,7 +9,7 @@
 2. 做笔记
 3. 练习 
 
-我会的编程语言有`HTML` `CSS` `JavaScript` `python`，和一点点点`Java`，下面我用`HTML`写一段[README](http://js.jirengu.com/tukuq/2/edit)吧
+我会的编程语言有`HTML` `CSS` `JavaScript` `python`，和一点点点`Java`，下面我用`HTML`写一段[README](http://js.jirengu.com/tukuq/10/edit)吧
 ```HTML
   <h1>自我介绍</h1>
   <hr style="background-color:#ddd;height:1px;border:none"/>
